@@ -58,10 +58,10 @@ Retail & supply chain transactional dataset (Walmart-style dataset from Kaggle)
 * Customer purchase behavior
   
 **Key findings**
-> The electronics category accounted for about 52% of the total revenue, thereby outperforming all other categories
-> TV and Tablets products recorded the highest sales revenue
-> Sales were highest during the month of August
-> Female customers and loyal customers segments generated the highest revenue
+- The electronics category accounted for about 52% of the total revenue, thereby outperforming all other categories
+- TV and Tablets products recorded the highest sales revenue
+- Sales were highest during the month of August
+- Female customers and loyal customers segments generated the highest revenue
 
 **2. Inventory & stockout Analysis**
 * Frequency of product out-of-stock occurrences
@@ -70,10 +70,10 @@ Retail & supply chain transactional dataset (Walmart-style dataset from Kaggle)
 * Revenue implication of stock-outs
 
 **Key findings**
->Total stockout percentage stood at 51.86%, demonstrating significant inefficiency in inventory planning
->Tablets, Fridges, and Smartphones displayed the most common occurrence of stockouts
->In high-demand items, stockouts were experienced during peak demand periods
->The average demand during stockout was more than 300 units
+- Total stockout percentage stood at 51.86%, demonstrating significant inefficiency in inventory planning
+- Tablets, Fridges, and Smartphones displayed the most common occurrence of stockouts
+- In high-demand items, stockouts were experienced during peak demand periods
+- The average demand during stockout was more than 300 units
 
 **3. Promotion impact analysis**
 * Revenue earned from promotions
@@ -81,9 +81,9 @@ Retail & supply chain transactional dataset (Walmart-style dataset from Kaggle)
 * Effects of discount on demand for sales
 
 **Key findings**
->Promotions had some effects on total revenue, but not very significant
->Percentages and BOGO promotions did not have much impact on increasing demand
->Availability of product was a more important factor to earn revenue than any discounts
+- Promotions had some effects on total revenue, but not very significant
+- Percentages and BOGO promotions did not have much impact on increasing demand
+- Availability of product was a more important factor to earn revenue than any discounts
 
 **Root Cause Analysis**
 * High stockout frequency - Impacted the sales and customer dissatisfaction
@@ -94,10 +94,10 @@ Retail & supply chain transactional dataset (Walmart-style dataset from Kaggle)
 High-demand electronic items experienced frequent out-of-stock situations during peak periods, that caused considerable revenue loss.
 
 **Recommendations**
-> Implement demand forecasting this will help with the stock out situations by reducing shortages during peak demand and will also help with better inventory planning
-> Increase Safety Stock for High-Risk Products
-> Optimize Inventory Allocation by Region
-> Improve Promotion Strategy
+- Implement demand forecasting this will help with the stock out situations by reducing shortages during peak demand and will also help with better inventory planning
+- Increase Safety Stock for High-Risk Products
+- Optimize Inventory Allocation by Region
+- Improve Promotion Strategy
 
 **Dashboard Features**
 1. Revenue KPIs
