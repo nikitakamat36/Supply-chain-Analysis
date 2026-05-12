@@ -1,4 +1,4 @@
-# Supply-chain-Analysis
+# Supply Chain Risk & Demand Optimization Analysis
 A retail analytics project focused on identifying revenue leakage due to stockouts, seasonality, and poor inventory management. This project merges SQL queries with Power BI for data visualization to detect risk factors and improve inventory distribution.
 
 **Problem Statement:**
